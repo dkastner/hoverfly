@@ -1,8 +1,8 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = 'hoverfly'
-  spec.version       = '0.0.5'
+  spec.name          = 'dkastner-hoverfly'
+  spec.version       = '0.0.6'
   spec.authors       = ['Automation Wizards']
   spec.email         = ['bjorn.ramroop@loblaw.ca']
 
